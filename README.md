@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=d-kjh&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/d-kjh?pet-id=741485053108327383"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=d-kjh&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/d-kjh"
+  width="600"
+  height="300"
+/>
 </a>
-<a href="https://github.com/users/d-kjh/achievements/pull-shark">
-  
